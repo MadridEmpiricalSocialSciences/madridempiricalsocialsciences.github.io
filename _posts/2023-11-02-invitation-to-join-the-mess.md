@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Invitation to Join the MESS!
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Madrid Empirical Social Science Network
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/mess.jpg
 share-img: /assets/img/path.jpg
-tags: [announcement, gettogether, workshop]
+tags: [announcement, get-together, workshop]
 author: Patrick Kraft
 published: true
 ---
