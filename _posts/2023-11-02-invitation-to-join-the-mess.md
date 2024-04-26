@@ -21,7 +21,9 @@ Thank you for considering our invitation. We look forward to welcoming you into 
 
 Sincerely,
 
-Jorge Fernandes, CSIC
-Amuitz Garmendia, UC3M
-Patrick Kraft, UC3M
-Emmy Lindstam, IE
+The MESS Committee
+
+- Jorge Fernandes, CSIC
+- Amuitz Garmendia, UC3M
+- Patrick Kraft, UC3M
+- Emmy Lindstam, IE
