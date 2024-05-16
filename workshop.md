@@ -39,5 +39,5 @@ An informal reception with drinks and snacks will take place in the early evenin
 
 ## Contact Information
 
-Email: <a href="mailto:madridempiricalsocialsciences@gmail.com">madridempiricalsocialsciences@gmail.com</a>
-Website: [https://madridempiricalsocialsciences.github.io](https://madridempiricalsocialsciences.github.io)
+- Email: <a href="mailto:madridempiricalsocialsciences@gmail.com">madridempiricalsocialsciences@gmail.com</a>
+- Website: [https://madridempiricalsocialsciences.github.io](https://madridempiricalsocialsciences.github.io)
