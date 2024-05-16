@@ -4,7 +4,7 @@ title: Annual MESS Workshop
 subtitle: Call for Papers
 ---
 
-# Inaugural Workshop of the Madrid Empirical Social Sciences Network (MESS)
+# Inaugural Workshop of the Madrid Empirical Social Sciences Network
 
 **Date**: October 18-19, 2024  
 **Location**: UC3M Puerta de Toledo Campus, Madrid
