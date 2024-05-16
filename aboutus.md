@@ -1,10 +1,20 @@
 ---
 layout: page
 title: About Us
-subtitle: Meet the MESS Scientific Committee
 ---
 
-# [Amuitz Garmendia, UC3M](http://www.amuitzgarmendia.com/)
+# Introducing the MESS
+
+The Madrid Exmpirical Social Sciences (MESS) is a collaborative platform aimed at fostering the exchange between social scientists from various academic institutions across Madrid. Membership is open to all faculty members, researchers, and professionals with an interest in social sciences in Madrid. Our main activities center around an annual workshop that provides an opportunity to present research projects and exchange ideas, as well as regular get-togethers to help build networks between colleagues from different institutions.
+
+The MESS has more than 75 members from various academic institutions in Madrid including [Carlos III University](https://www.uc3m.es/Home), [IE University](https://www.ie.edu/), the [Institute of Public Goods and Policies (CSIC)](https://ipp.csic.es/en), [Complutense University](https://www.ucm.es/english), [CUNEF University](https://www.cunef.edu/en/), [Universidad Autónoma de Madrid](https://www.uam.es/uam/en/inicio), and others.
+
+We believe that MESS has the potential to elevate the quality of research in social sciences and contribute to the vibrant academic landscape in our city. Your involvement will be invaluable to the success of this initiative and to the success of our annual workshop. Should you have any questions or require more information, please do not hesitate to contact us.
+
+
+# Meet the MESS Scientific Committee
+
+## [Amuitz Garmendia, UC3M](http://www.amuitzgarmendia.com/)
 
 <div class="row">
   <div class="col-md-8" markdown="1">
@@ -16,7 +26,7 @@ subtitle: Meet the MESS Scientific Committee
   </div>
 </div>
 
-# [Emmy Lindstam, IE University](https://emmylindstam.com/)
+## [Emmy Lindstam, IE University](https://emmylindstam.com/)
 
 <div class="row">
   <div class="col-md-4" markdown="1">
@@ -28,7 +38,7 @@ subtitle: Meet the MESS Scientific Committee
   </div>
 </div>
 
-# [Jorge M. Fernandes, CSIC](https://www.jorgemfernandes.com/)
+## [Jorge M. Fernandes, CSIC](https://www.jorgemfernandes.com/)
 
 <div class="row">
   <div class="col-md-8" markdown="1">
@@ -40,7 +50,7 @@ subtitle: Meet the MESS Scientific Committee
   </div>
 </div>
 
-# [Patrick Kraft, UC3M](https://pwkraft.github.io/)
+## [Patrick Kraft, UC3M](https://pwkraft.github.io/)
 
 <div class="row">
   <div class="col-md-4" markdown="1">

@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Annual MESS Workshop
-subtitle: Please join for our inaugural workshop!
+subtitle: Call for Papers
 ---
-
-# Call for Papers
 
 # Inaugural Workshop of the Madrid Empirical Social Sciences Network (MESS)
 
-**Date**: October 18, 2024  
+**Date**: October 18-19, 2024  
 **Location**: UC3M Puerta de Toledo Campus, Madrid
 
 The MESS network is excited to announce its inaugural workshop. This event aims to bring together scholars from all social science disciplines to foster academic synergies and collaborative efforts in the Madrid area. It will offer a platform for lively discussions and networking in a supportive environment.
@@ -19,7 +17,7 @@ Professor Niloufer A. Siddiqui (SUNY Albany)
 
 ## Call for Submissions
 
-We welcome full papers and ongoing projects that reflect innovative research in the social sciences. Participants also have the opportunity to present posters on ongoing projects or engage as discussants.
+We welcome full papers and ongoing projects that reflect innovative research in the social sciences. Participants also have the opportunity to present posters on ongoing projects or engage as discussants. We strongly encourage PhD students located in Madrid to apply as well!
 
 - Abstract Submission: Please submit your abstracts via email to: <a href="mailto:madridempiricalsocialsciences@gmail.com">madridempiricalsocialsciences@gmail.com</a>
 - Submission Deadline: 30th July 2024.
@@ -42,4 +40,4 @@ An informal reception with drinks and snacks will take place in the early evenin
 ## Contact Information
 
 Email: <a href="mailto:madridempiricalsocialsciences@gmail.com">madridempiricalsocialsciences@gmail.com</a>
-Internet: [https://madridempiricalsocialsciences.github.io](https://madridempiricalsocialsciences.github.io)
+Website: [https://madridempiricalsocialsciences.github.io](https://madridempiricalsocialsciences.github.io)

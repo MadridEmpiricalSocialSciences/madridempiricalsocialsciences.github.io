@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Invitation to Join the MESS!
+title: Join the MESS!
 subtitle: Madrid Empirical Social Science Network
 cover-img: /assets/img/madrid.jpg
 thumbnail-img: /assets/img/mess.jpg
