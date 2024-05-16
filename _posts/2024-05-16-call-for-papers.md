@@ -12,9 +12,9 @@ published: true
 
 The MESS network is excited to announce its inaugural workshop! This event aims to bring together scholars from all social science disciplines to foster academic synergies and collaborative efforts in the Madrid area. It will offer a platform for lively discussions and networking in a supportive environment.
 
-**Date**: October 18-19, 2024
-**Location**: UC3M Puerta de Toledo Campus, Madrid
-**Keynote Speaker**: Professor Niloufer A. Siddiqui (SUNY Albany)
+- **Date**: October 18-19, 2024
+- **Location**: UC3M Puerta de Toledo Campus, Madrid
+- **Keynote Speaker**: Professor Niloufer A. Siddiqui (SUNY Albany)
 
 We welcome full papers and ongoing projects that reflect innovative research in the social sciences. Participants also have the opportunity to present posters on ongoing projects or engage as discussants. We strongly encourage PhD students located in Madrid to apply as well!
 
