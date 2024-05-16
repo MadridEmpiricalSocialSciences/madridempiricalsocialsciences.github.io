@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Join the MESS!
+subtitle: Madrid Empirical Social Sciences
 cover-img: /assets/img/madrid.jpg
 thumbnail-img: /assets/img/mess.jpg
 share-img: /assets/img/madrid.jpg
