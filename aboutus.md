@@ -5,7 +5,7 @@ title: About Us
 
 # Introducing the MESS
 
-The Madrid Exmpirical Social Sciences (MESS) is a collaborative platform aimed at fostering the exchange between social scientists from various academic institutions across Madrid. Membership is open to all faculty members, researchers, and professionals with an interest in social sciences in Madrid. Our main activities center around an annual workshop that provides an opportunity to present research projects and exchange ideas, as well as regular get-togethers to help build networks between colleagues from different institutions.
+The Madrid Empirical Social Sciences (MESS) is a collaborative platform aimed at fostering the exchange between social scientists from various academic institutions across Madrid. Membership is open to all faculty members, researchers, and professionals with an interest in social sciences in Madrid. Our main activities center around an annual workshop that provides an opportunity to present research projects and exchange ideas, as well as regular get-togethers to help build networks between colleagues from different institutions.
 
 The MESS has more than 75 members from various academic institutions in Madrid including [Carlos III University](https://www.uc3m.es/Home), [IE University](https://www.ie.edu/), the [Institute of Public Goods and Policies (CSIC)](https://ipp.csic.es/en), [Complutense University](https://www.ucm.es/english), [CUNEF University](https://www.cunef.edu/en/), [Universidad Autónoma de Madrid](https://www.uam.es/uam/en/inicio), and others.
 
