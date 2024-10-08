@@ -10,7 +10,7 @@ subtitle: Registration Open
 **Location**: UC3M Puerta de Toledo Campus, Madrid
 **Keynote Speaker**: Professor Niloufer A. Siddiqui (SUNY Albany)
 
-We are excited that the MESS Inaugural Workshop is approaching and we are looking at an amazing line-up of presentations! This event aims to bring together scholars from all social science disciplines to foster academic synergies and collaborative efforts in the Madrid area. It will offer a platform for lively discussions and networking in a supportive environment. Here is the latest version of our [Workshop Program](/assets/img/MESS-Program.pdf) along with additional information for presenters and discussants.
+We are excited that the MESS Inaugural Workshop is approaching and we are looking at an amazing lineup of presentations! This event aims to bring together scholars from all social science disciplines to foster academic synergies and collaborative efforts in the Madrid area. It will offer a platform for lively discussions and networking in a supportive environment. Here is the latest version of our [Workshop Program](/assets/img/MESS-Program.pdf) along with additional information for presenters and discussants.
 
 To help with the organization and ensure the best experience for everyone, **please register** and provide your food preferences for the workshop using this [link](https://forms.gle/aMUCDEHGLh1hD4cWA).
 
