@@ -10,7 +10,7 @@ author: Patrick Kraft
 published: true
 ---
 
-The MESS Inaugural Workshop is approaching and we are looking at an amazing line-up of presentations! Here is the latest version of our [Workshop Program](/assets/img/MESS-Program.pdf) along with additional information for presenters and discussants.
+The MESS Inaugural Workshop is approaching and we are looking at an amazing lineup of presentations! Here is the latest version of our [Workshop Program](/assets/img/MESS-Program.pdf) along with additional information for presenters and discussants.
 
 To help with the organization and ensure the best experience for everyone, **please register** and provide your food preferences for the workshop using this [link](https://forms.gle/aMUCDEHGLh1hD4cWA).
 
