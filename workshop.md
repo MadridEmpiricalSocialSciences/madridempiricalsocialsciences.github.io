@@ -16,12 +16,11 @@ subtitle: Program
 
 ### Panel 1A - The One About Norms and the Radical Right (Room: -1.A.03, Time: 16:00 - 17:30)
 
-Discussants: Pau Vall-Pratt & Pedro Riera
-
 - **Vicente Valentim** & Tarek Jaziri-Arjona. Short-Term Mobility and Changes in Political Norms.
 - **Amalia Alvarez-Benjumea** & Vicente Valentim. The Enforcement of Political Norms.
 - **Piotr Zagórski** & Irene Martín. Blame and Oblivion: How Historical Attitudes Shape Support for Vox.
 - **Carlos Sanz** & Jesus Fernandez-Villaverde. Classical Right, New Right, and Voting Behavior: Evidence from a Quasi-Natural Experiment.
+- *Discussants*: Pau Vall-Pratt & Pedro Riera
  
 ### Panel 1B - The One About Elites and Interest Groups (Room: -1.A.04, Time: 16:00 - 17:30)
 
