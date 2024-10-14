@@ -154,17 +154,17 @@ subtitle: Program
 
 ## Additional Information
 
-**Information for Paper Presenters:**
+### Information for Paper Presenters:
 
 - Please send your paper by October 14 to [madridempiricalsocialsciences@gmail.com](mailto:madridempiricalsocialsciences@gmail.com), so we can share it with your discussants prior to the workshop.
 - Your presentation should be no longer than 12 minutes to provide enough time for feedback and discussion.
 
-**Information for Discussants:**
+### Information for Discussants:
 
 - We are going to assign two discussants per panel. Discussants may coordinate internally how they want to split up the papers.
 - Your comments should be no longer than 5 minutes per paper to provide enough time for a Q&A session with the audience.
 
-**Information for Poster Presenters:**
+### Information for Poster Presenters:
 
 - Please bring a printed poster to the conference, the format should ideally be A1 (ca. 60 x 85 cm).
 - Here are some additional resources on how to prepare your poster:
