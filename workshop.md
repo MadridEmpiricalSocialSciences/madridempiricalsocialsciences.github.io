@@ -7,8 +7,8 @@ subtitle: Program
 # Inaugural Workshop of the Madrid Empirical Social Sciences Network
 
 **Date**: October 18-19, 2024  
-**Location**: UC3M Puerta de Toledo Campus, Madrid  
-**Keynote Speaker**: Professor Niloufer A. Siddiqui (SUNY Albany)  
+**Location**: [UC3M Puerta de Toledo Campus, Madrid](https://maps.app.goo.gl/JDHx4d3A1kpN7fNg8)
+**Keynote Speaker**: [Professor Niloufer A. Siddiqui (SUNY Albany)](http://www.niloufersiddiqui.com/)
 **Program**: [Final Version (pdf)](/assets/img/MESS-Program.pdf)  
 **Registration**: [Link](https://forms.gle/aMUCDEHGLh1hD4cWA) 
 
