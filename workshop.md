@@ -16,9 +16,9 @@ subtitle: Program
 
 ### Panel 1A - The One About Norms and the Radical Right
 
-- **Discussants**: Pau Vall-Pratt & Pedro Riera
 - **Room**: -1.A.03
 - **Time**: 16:00 - 17:30
+- **Discussants**: Pau Vall-Pratt & Pedro Riera
 - **Presentations**:
     - **Vicente Valentim** & Tarek Jaziri-Arjona. *Short-Term Mobility and Changes in Political Norms.*
     - **Amalia Alvarez-Benjumea** & Vicente Valentim. *The Enforcement of Political Norms.*
@@ -27,101 +27,130 @@ subtitle: Program
  
 ### Panel 1B - The One About Elites and Interest Groups
 
-- **Fernando Mello**. *Do Politicians Weigh the Power of Organized Groups? Evidence from Survey and a WhatsApp Experiment in Brazil.*
-- **Michael Becher** & Daniel Stegmueller. *Machines Against Workers? Rethinking the Impact of Robots on Union Strength.*
-- **Daniel Kselman** & Christy Qiu. *Factionalism and the Collusion of Radicals in Social Conflict.*
-- **Nelson Ruiz**, Laura Geuerrero & Robin Harding. *Not Every Cloud has a Silver Lining: Climate-Related Natural Hazards and Campaign Contributions in Colombia.*
-- **Discussants**: Pablo Fernández Vázquez & Juan Antonio Mayoral
 - **Room**: -1.A.04
 - **Time**: 16:00 - 17:30
+- **Discussants**: Pablo Fernández Vázquez & Juan Antonio Mayoral
+- **Presentations**:
+    - **Fernando Mello**. *Do Politicians Weigh the Power of Organized Groups? Evidence from Survey and a WhatsApp Experiment in Brazil.*
+    - **Michael Becher** & Daniel Stegmueller. *Machines Against Workers? Rethinking the Impact of Robots on Union Strength.*
+    - **Daniel Kselman** & Christy Qiu. *Factionalism and the Collusion of Radicals in Social Conflict.*
+    - **Nelson Ruiz**, Laura Geuerrero & Robin Harding. *Not Every Cloud has a Silver Lining: Climate-Related Natural Hazards and Campaign Contributions in Colombia.*
 
-### Panel 1C - The One About Education and Gender (Room: -1.A.06, Time: 16:00 - 17:30)
+### Panel 1C - The One About Education and Gender
 
-Discussants: Carlos Lastra-Anadon & Sergio Galaz
+- **Room**: -1.A.06
+- **Time**: 16:00 - 17:30
+- **Discussants**: Carlos Lastra-Anadon & Sergio Galaz
+- **Presentations**:
+    - **Maria Rubio-Cabañez** & Jonas Radl. *Polluting Student Test Performance: School-Based Evidence on the Adverse effects of Air Pollution.*
+    - **Fabrizio Bernardi**, Alessandro Ferrera & Gaia Ghirardi. *Luck and Educational Attainment: An Empirical Approximation Using Variance Function Regressions and Heterogenous Choice Models.*
+    - **Marga Torre** & Maik Hamjediers. *The Flip Side of Gender Segregation: Men in Female-Dominated Occupations.*
+    - **Marta Fraile**, Nerea Gándara Guerra & Paula Zuluaga. *Unveiling Feminism: Textual, Emotional, and Symbolic Meanings of Public Opinion on Feminism.* 
 
-- **Maria Rubio-Cabañez** & Jonas Radl. Polluting Student Test Performance: School-Based Evidence on the Adverse effects of Air Pollution.
-- **Fabrizio Bernardi**, Alessandro Ferrera & Gaia Ghirardi. Luck and Educational Attainment: An Empirical Approximation Using Variance Function Regressions and Heterogenous Choice Models.
-- **Marga Torre** & Maik Hamjediers. The Flip Side of Gender Segregation: Men in Female-Dominated Occupations.
-- **Marta Fraile**, Nerea Gándara Guerra & Paula Zuluaga. Unveiling Feminism: Textual, Emotional, and Symbolic Meanings of Public Opinion on Feminism. 
+### Panel 2A - The One About Historical Legacies 
 
-### Panel 2A - The One About Historical Legacies (Room: -1.A.03, Time: 17:45 - 19:00)
+- **Room**: -1.A.03
+- **Time**: 17:45 - 19:00
+- **Discussants**: Michael Becher & Paul Atwell
+- **Presentations**: 
+    - **Pau Vall-Prat**, Albert Falcó-Gimeno & Jordi Muñoz. *Authoritarian Power Sharing and Democratization: The Case of the Transition Mayors in Spain.*
+    - **Fernando De la Cuesta**. *For Better or Worse: The Long-Term Impact of First Time Voting on The Last Call for Democracy.*
+    - **William Foley**. *“And the Lord Added to their Number”: the Diffusion of Early Christianity in the Ancient Mediterranean.*
 
-Discussants: Michael Becher & Paul Atwell
- 
-- **Pau Vall-Prat**, Albert Falcó-Gimeno & Jordi Muñoz. Authoritarian Power Sharing and Democratization: The Case of the Transition Mayors in Spain.
-- **Fernando De la Cuesta**. For Better or Worse: The Long-Term Impact of First Time Voting on The Last Call for Democracy.
-- **William Foley**. “And the Lord Added to their Number”: the Diffusion of Early Christianity in the Ancient Mediterranean.
+### Panel 2B - The One About Children and Young Adults
 
-### Panel 2B - The One About Children and Young Adults (Room: -1.A.04, Time: 17:45 - 19:00)
+- **Room**: -1.A.04
+- **Time**: 17:45 - 19:00
+- **Discussants**: Jonas Radl & Warn N. Lekfuangfu
+- **Presentations**: 
+    - **Antonio Cabrales**, Pablo Brañas-Garza, Jaromír Kovářík & Mónica Vasco. *Predictors of Bullying Victimization at School: A Network Approach.*
+    - **Sevin Kaytan**, Stwarth Piedra Bonilla & Tom Zohar. *The Triple Approach for Reducing Teen Pregnancy: Contraception Access, Information Quality, and Prolonged Exposure.*
+    - **Tom Zohar**, Dmitry Arkhangelsky & Kazuharu Yanagimoto. *Flexible Analysis of Individual Heterogeneity in Event Studies: Application to the Child Penalty.*
 
-Discussants: Jonas Radl & Warn N. Lekfuangfu
- 
-- **Antonio Cabrales**, Pablo Brañas-Garza, Jaromír Kovářík & Mónica Vasco. Predictors of Bullying Victimization at School: A Network Approach.
-- **Sevin Kaytan**, Stwarth Piedra Bonilla & Tom Zohar. The Triple Approach for Reducing Teen Pregnancy: Contraception Access, Information Quality, and Prolonged Exposure.
-- **Tom Zohar**, Dmitry Arkhangelsky & Kazuharu Yanagimoto. Flexible Analysis of Individual Heterogeneity in Event Studies: Application to the Child Penalty.
+### Panel 2C - The One About Europe and the Judiciary
 
-### Panel 2C - The One About Europe and the Judiciary (Room: -1.A.06, Time: 17:45 - 19:15)
+- **Room**: -1.A.06
+- **Time**: 17:45 - 19:15
+- **Discussants**: Zoe Ge & Nikitas Konstantinidis
+- **Presentations**:
+    - **Sebastián Lavezzolo**, Juan J. Fernández & Ilona Ladehlman. *Social Desirability Bias and Pro-European Dispositions.*
+    - **Aleksandra Sojka** & Ilke Toygur. *Climate Scepticism and Euroscepticism: Exploring the Link in the European Parliament Elections.*
+    - **Juan Antonio Mayoral**. *Building an EU Trust-Based Legal System: The Relevance of Judicial Trust for Cooperating with the CJEU.*
+    - **Siyun Jiang**. *Democratic Backsliding and Judicial Selection: Evidence form Hong Kong.*
 
-Discussants: Zoe Ge & Nikitas Konstantinidis
- 
-- **Sebastián Lavezzolo**, Juan J. Fernández & Ilona Ladehlman. Social Desirability Bias and Pro-European Dispositions.
-- **Aleksandra Sojka** & Ilke Toygur. Climate Scepticism and Euroscepticism: Exploring the Link in the European Parliament Elections.
-- **Juan Antonio Mayoral**. Building an EU Trust-Based Legal System: The Relevance of Judicial Trust for Cooperating with the CJEU.
-- **Siyun Jiang**. Democratic Backsliding and Judicial Selection: Evidence form Hong Kong  
+### COCKTAIL & POSTER SESSION: The One to Meet and Mingle 
 
-### COCKTAIL & POSTER SESSION: The One to Meet and Mingle (Room: La Cantina, Time: 19:15 - 20:45)
-
-- **Álvaro San Román del Pozuelo**. Remote Resentments: Electoral Impacts of Public Infrastructure Expansion.
-- **Nadal Perales Oliver**. The Historical Origins of Leftist Electoral Support: Evidence from Spain.
-- **Raúl Villegas Santana**. The Union Effect: How Membership Shapes Work Time Mismatch.
-- **Davide Rognini**, P. Lecca & J. Díaz-Lanchas. EU-Andorra Free Trade Agreement: a CGE impact analysis.
-- **Rubén Gonzálvez Salmerón**, Joaquín Artes & Jennifer Graves. The Impact of Minimum Wages on Investment and Productivity: The Case of Spanish Firms.
-- **Jair Alva Mendoza**. ‘Ils ne passeront pas!’: New Parties and Party System Nationalization in Europe (1946-2020)
+- **Room**: La Cantina
+- **Time**: 19:15 - 20:45
+- **Posters**:
+    - **Álvaro San Román del Pozuelo**. *Remote Resentments: Electoral Impacts of Public Infrastructure Expansion.*
+    - **Nadal Perales Oliver**. *The Historical Origins of Leftist Electoral Support: Evidence from Spain.*
+    - **Raúl Villegas Santana**. *The Union Effect: How Membership Shapes Work Time Mismatch.*
+    - **Davide Rognini**, P. Lecca & J. Díaz-Lanchas. *EU-Andorra Free Trade Agreement: a CGE impact analysis.*
+    - **Rubén Gonzálvez Salmerón**, Joaquín Artes & Jennifer Graves. *The Impact of Minimum Wages on Investment and Productivity: The Case of Spanish Firms.*
+    - **Jair Alva Mendoza**. *‘Ils ne passeront pas!’: New Parties and Party System Nationalization in Europe (1946-2020).*
 
 ## Saturday, October 19, 2024
 
-### Panel 3A - The One About Misinformation and Civic Education (Room: 2.0.A.02, Time: 09:00 - 10:30)
+### Panel 3A - The One About Misinformation and Civic Education
 
-Discussants: Neeraj Prasad & Fran Villamil
- 
-- **Carlos X. Lastra-Anadón** & Daniel J. Flynn. Schooling Against Fake News: An Online and In-Person Intervention to Tackle Misinformation Among Teenagers.
-- **Jeremy Siow**. Civic Education and Ethnic Tolerance.
-- **Rodrigo Fernandez Caba** & Simon Chauchard. Does the Style of Misinformation Condition its Effects? An Experiment in Brazil.
-- **Paul Atwell**, Fernando Barros Mello & Simon Chauchard. Mayors, Messaging, and Misinformation: An Experimental Evaluation of Heightened Legal Standards on Online Misinformation on Local Elections.
+- **Room**: 2.0.A.02
+- **Time**: 09:00 - 10:30
+- **Discussants**: Neeraj Prasad & Fran Villamil
+- **Presentations**:
+    - **Carlos X. Lastra-Anadón** & Daniel J. Flynn. *Schooling Against Fake News: An Online and In-Person Intervention to Tackle Misinformation Among Teenagers.*
+    - **Jeremy Siow**. *Civic Education and Ethnic Tolerance.*
+    - **Rodrigo Fernandez Caba** & Simon Chauchard. *Does the Style of Misinformation Condition its Effects? An Experiment in Brazil.*
+    - **Paul Atwell**, Fernando Barros Mello & Simon Chauchard. *Mayors, Messaging, and Misinformation: An Experimental Evaluation of Heightened Legal Standards on Online Misinformation on Local Elections.*
 
-### Panel 3B - The One About Polarization (Room: 2.1.A.02, Time: 09:00 - 10:30)
+### Panel 3B - The One About Polarization
 
-Discussants: Simon Chauchard & Ilona Lahdelma
- 
-- **Luis Cornago Bonal** & Francesco Raffaelli. Do Political Identities Matter at Work? The Politics of Workplace Cooperation.
-- **José Miguel Rojo**. Love in the Times of Political Polarisation. A Conjoint Experiment on the Influence of Partisan Identity on Social Distancing.
-- **Joaquín Artés Caselles**, Beatriz Rodríguez Sánchez, Fernando de la Cuesta Serrano, & Rubén Gonzálvez Salmerón. The Effects on Mental Health of Political Disagreement with the Government.
+- **Room**: 2.1.A.02
+- **Time**: 09:00 - 10:30
+- **Discussants**: Simon Chauchard & Ilona Lahdelma
+- **Presentations**: 
+    - **Luis Cornago Bonal** & Francesco Raffaelli. *Do Political Identities Matter at Work? The Politics of Workplace Cooperation.*
+    - **José Miguel Rojo**. *Love in the Times of Political Polarisation. A Conjoint Experiment on the Influence of Partisan Identity on Social Distancing.*
+    - **Joaquín Artés Caselles**, Beatriz Rodríguez Sánchez, Fernando de la Cuesta Serrano, & Rubén Gonzálvez Salmerón. *The Effects on Mental Health of Political Disagreement with the Government.*
 
-### COFFEE BREAK: The One Where You Wake Up (Room: La Cantina, Time: 10:30 - 11:00)
+### COFFEE BREAK: The One Where You Wake Up 
 
-### Panel 4A - The One About India, Spain, Bureaucracies, and Conflict (Room: 2.0.A.02, Time: 11:00 - 12:30)
+- **Room**: La Cantina
+- **Time**: 10:30 - 11:00
 
-Discussants: Siyun Jiang & Jeremy Siow
- 
-- **Simon Chauchard** & Pavithra Suryanarayan. When Losing The State Drives Opposition to Redistribution: An Experiment in India.
-- **Neeraj Prasad**, Ursula Daxecker & Kartikeya Batra. Sowing Discord: How Violence Transforms Political Identities and Cleavages.
-- **Francisco Villamil**, Paloma Aguilar & Fernando de la Cuesta. Grassroots Human Rights and Its Consequences: Mass Grave Exhumationdiass in Spain.
-- **Pablo Fernandez-Vazquez** & Guillermo Toral. Undoing Insulation: Politicization and Revolving Doors and a Closed Weberian Bureaucracy.
+### Panel 4A - The One About India, Spain, Bureaucracies, and Conflict
 
-### Panel 4B - The One About Ideology and Political Beliefs (Room: 2.1.A.02, Time: 11:00 - 12:30)
+- **Room**: 2.0.A.02
+- **Time**: 11:00 - 12:30
+- **Discussants**: Siyun Jiang & Jeremy Siow
+- **Presentations**:
+    - **Simon Chauchard** & Pavithra Suryanarayan. *When Losing The State Drives Opposition to Redistribution: An Experiment in India.*
+    - **Neeraj Prasad**, Ursula Daxecker & Kartikeya Batra. *Sowing Discord: How Violence Transforms Political Identities and Cleavages.*
+    - **Francisco Villamil**, Paloma Aguilar & Fernando de la Cuesta. *Grassroots Human Rights and Its Consequences: Mass Grave Exhumationdiass in Spain.*
+    - **Pablo Fernandez-Vazquez** & Guillermo Toral. *Undoing Insulation: Politicization and Revolving Doors and a Closed Weberian Bureaucracy.*
 
-Discussants: William Foley & Sebastián Lavezzolo
- 
-- **Raúl López-Pérez**. Selective Recall and Political Ideology: Experimental Evidence.
-- **Sergio Galaz Garcia**, Manuel Cuerno, Fernando Galaz-García, & Telmo Pérez-Izquierdo. Political Opposition Vectors in the United States, 1948-2020.
-- **Jaime Coulbois**. Issue Priority in Two-Dimensional Voting in Times of Economic Crisis: Evidence from Europe in the 21st century.
-- **Juan J. Fernández**, Plamen Akaliyski & Wolfgang Messner. Within-Country Attitudinal Heterogeneity: A Global Analysis.
+### Panel 4B - The One About Ideology and Political Beliefs
 
-### KEYNOTE: The One You Don’t Want to Miss (Room: 2.0.A.02, Time: 12:45 - 14:00)
+- **Room**: 2.1.A.02
+- **Time**: 11:00 - 12:30
+- **Discussants**: William Foley & Sebastián Lavezzolo
+- **Presentations**:
+    - **Raúl López-Pérez**. *Selective Recall and Political Ideology: Experimental Evidence.*
+    - **Sergio Galaz Garcia**, Manuel Cuerno, Fernando Galaz-García, & Telmo Pérez-Izquierdo. *Political Opposition Vectors in the United States, 1948-2020.*
+    - **Jaime Coulbois**. *Issue Priority in Two-Dimensional Voting in Times of Economic Crisis: Evidence from Europe in the 21st century.*
+    - **Juan J. Fernández**, Plamen Akaliyski & Wolfgang Messner. *Within-Country Attitudinal Heterogeneity: A Global Analysis.*
 
-**Niloufer A. Siddiqui**. When does Identity Matter? The Supply and Demand of Political Violence
+### KEYNOTE: The One You Don’t Want to Miss
 
-### LUNCH AND MINGLE (Location: TBD, Time: 14:00 - ?)
+- **Room**: 2.0.A.02
+- **Time**: 12:45 - 14:00
+- **Presentation**:
+    - **Niloufer A. Siddiqui**. *When does Identity Matter? The Supply and Demand of Political Violence.*
+
+### LUNCH AND MINGLE 
+
+- **Location**: TBD
+- **Time**: 14:00 - ?
 
 ## Additional Information
 
