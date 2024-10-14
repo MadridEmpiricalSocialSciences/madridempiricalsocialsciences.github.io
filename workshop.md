@@ -8,9 +8,9 @@ subtitle: Program
 
 **Date**: October 18-19, 2024  
 **Location**: UC3M Puerta de Toledo Campus, Madrid  
-**Keynote Speaker**: Professor Niloufer A. Siddiqui (SUNY Albany) 
-**Program**: [Final Version (pdf)](/assets/img/MESS-Program.pdf) 
-**Registration**: [Link](https://forms.gle/aMUCDEHGLh1hD4cWA)
+**Keynote Speaker**: Professor Niloufer A. Siddiqui (SUNY Albany)  
+**Program**: [Final Version (pdf)](/assets/img/MESS-Program.pdf)  
+**Registration**: [Link](https://forms.gle/aMUCDEHGLh1hD4cWA) 
 
 ## Friday, October 18, 2024
 
