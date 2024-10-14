@@ -16,22 +16,24 @@ subtitle: Program
 
 ### Panel 1A - The One About Norms and the Radical Right
 
-- **Vicente Valentim** & Tarek Jaziri-Arjona. *Short-Term Mobility and Changes in Political Norms.*
-- **Amalia Alvarez-Benjumea** & Vicente Valentim. The Enforcement of Political Norms.
-- **Piotr Zagórski** & Irene Martín. Blame and Oblivion: How Historical Attitudes Shape Support for Vox.
-- **Carlos Sanz** & Jesus Fernandez-Villaverde. Classical Right, New Right, and Voting Behavior: Evidence from a Quasi-Natural Experiment.
 - **Discussants**: Pau Vall-Pratt & Pedro Riera
 - **Room**: -1.A.03
 - **Time**: 16:00 - 17:30
+- **Presentations**:
+    - **Vicente Valentim** & Tarek Jaziri-Arjona. *Short-Term Mobility and Changes in Political Norms.*
+    - **Amalia Alvarez-Benjumea** & Vicente Valentim. *The Enforcement of Political Norms.*
+    - **Piotr Zagórski** & Irene Martín. *Blame and Oblivion: How Historical Attitudes Shape Support for Vox.*
+    - **Carlos Sanz** & Jesus Fernandez-Villaverde. *Classical Right, New Right, and Voting Behavior: Evidence from a Quasi-Natural Experiment.*
  
-### Panel 1B - The One About Elites and Interest Groups (Room: -1.A.04, Time: 16:00 - 17:30)
+### Panel 1B - The One About Elites and Interest Groups
 
-Discussants: Pablo Fernández Vázquez & Juan Antonio Mayoral
- 
-- **Fernando Mello**. Do Politicians Weigh the Power of Organized Groups? Evidence from Survey and a WhatsApp Experiment in Brazil.
-- **Michael Becher** & Daniel Stegmueller. Machines Against Workers? Rethinking the Impact of Robots on Union Strength.
-- **Daniel Kselman** & Christy Qiu. Factionalism and the Collusion of Radicals in Social Conflict 
-- **Nelson Ruiz**, Laura Geuerrero & Robin Harding. Not Every Cloud has a Silver Lining: Climate-Related Natural Hazards and Campaign Contributions in Colombia.
+- **Fernando Mello**. *Do Politicians Weigh the Power of Organized Groups? Evidence from Survey and a WhatsApp Experiment in Brazil.*
+- **Michael Becher** & Daniel Stegmueller. *Machines Against Workers? Rethinking the Impact of Robots on Union Strength.*
+- **Daniel Kselman** & Christy Qiu. *Factionalism and the Collusion of Radicals in Social Conflict.*
+- **Nelson Ruiz**, Laura Geuerrero & Robin Harding. *Not Every Cloud has a Silver Lining: Climate-Related Natural Hazards and Campaign Contributions in Colombia.*
+- **Discussants**: Pablo Fernández Vázquez & Juan Antonio Mayoral
+- **Room**: -1.A.04
+- **Time**: 16:00 - 17:30
 
 ### Panel 1C - The One About Education and Gender (Room: -1.A.06, Time: 16:00 - 17:30)
 
