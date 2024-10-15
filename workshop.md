@@ -55,7 +55,7 @@ subtitle: Program
 - **Presentations**: 
     - **Pau Vall-Prat**, Albert Falcó-Gimeno & Jordi Muñoz. *Authoritarian Power Sharing and Democratization: The Case of the Transition Mayors in Spain.*
     - **Fernando De la Cuesta**. *For Better or Worse: The Long-Term Impact of First Time Voting on The Last Call for Democracy.*
-    - **William Foley**. *“And the Lord Added to their Number”: the Diffusion of Early Christianity in the Ancient Mediterranean.*
+    - **Siyun Jiang**. *Democratic Backsliding and Judicial Selection: Evidence from Hong Kong.*
 
 ### Panel 2B - The One About Children and Young Adults
 
@@ -70,13 +70,12 @@ subtitle: Program
 ### Panel 2C - The One About Europe and the Judiciary
 
 - **Room**: -1.A.06
-- **Time**: 17:45 - 19:15
+- **Time**: 17:45 - 19:00
 - **Discussants**: Zoe Ge & Nikitas Konstantinidis
 - **Presentations**:
     - **Sebastián Lavezzolo**, Juan J. Fernández & Ilona Ladehlman. *Social Desirability Bias and Pro-European Dispositions.*
     - **Aleksandra Sojka** & Ilke Toygur. *Climate Scepticism and Euroscepticism: Exploring the Link in the European Parliament Elections.*
     - **Juan Antonio Mayoral**. *Building an EU Trust-Based Legal System: The Relevance of Judicial Trust for Cooperating with the CJEU.*
-    - **Siyun Jiang**. *Democratic Backsliding and Judicial Selection: Evidence form Hong Kong.*
 
 ### COCKTAIL & POSTER SESSION: The One to Meet and Mingle 
 
@@ -88,7 +87,7 @@ subtitle: Program
     - **Raúl Villegas Santana**. *The Union Effect: How Membership Shapes Work Time Mismatch.*
     - **Davide Rognini**, P. Lecca & J. Díaz-Lanchas. *EU-Andorra Free Trade Agreement: a CGE impact analysis.*
     - **Rubén Gonzálvez Salmerón**, Joaquín Artes & Jennifer Graves. *The Impact of Minimum Wages on Investment and Productivity: The Case of Spanish Firms.*
-    - **Jair Alva Mendoza**. *‘Ils ne passeront pas!’: New Parties and Party System Nationalization in Europe (1946-2020).*
+    - **Jair Alva Mendoza**. *'Ils ne passeront pas!': New Parties and Party System Nationalization in Europe (1946-2020).*
 
 ## Saturday, October 19, 2024
 
@@ -126,14 +125,14 @@ subtitle: Program
 - **Presentations**:
     - **Simon Chauchard** & Pavithra Suryanarayan. *When Losing The State Drives Opposition to Redistribution: An Experiment in India.*
     - **Neeraj Prasad**, Ursula Daxecker & Kartikeya Batra. *Sowing Discord: How Violence Transforms Political Identities and Cleavages.*
-    - **Francisco Villamil**, Paloma Aguilar & Fernando de la Cuesta. *Grassroots Human Rights and Its Consequences: Mass Grave Exhumationdiass in Spain.*
+    - **Francisco Villamil**, Paloma Aguilar & Fernando de la Cuesta. *Grassroots Human Rights and Its Consequences: Mass Grave Exhumations in Spain.*
     - **Pablo Fernandez-Vazquez** & Guillermo Toral. *Undoing Insulation: Politicization and Revolving Doors and a Closed Weberian Bureaucracy.*
 
 ### Panel 4B - The One About Ideology and Political Beliefs
 
 - **Room**: 2.1.A.02
 - **Time**: 11:00 - 12:30
-- **Discussants**: William Foley & Sebastián Lavezzolo
+- **Discussants**: Juan J. Fernández & Sebastián Lavezzolo
 - **Presentations**:
     - **Raúl López-Pérez**. *Selective Recall and Political Ideology: Experimental Evidence.*
     - **Sergio Galaz Garcia**, Manuel Cuerno, Fernando Galaz-García, & Telmo Pérez-Izquierdo. *Political Opposition Vectors in the United States, 1948-2020.*
