@@ -18,8 +18,8 @@ We believe that MESS has the potential to elevate the quality of social science 
 
 <div class="row">
   <div class="col-md-4" markdown="1">
-    <!-- ![Alt Text](../img/folder/blah.jpg) -->
-    <img width="100%" class="center-block" src="/assets/img/amalia.png">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img width="100%" class="center-block" src="/assets/img/amalia.png">
   </div>
   <div class="col-md-8" markdown="1">
   Amalia is a Ramón y Cajal Fellow at the [Institute of Public Goods and Policies](http://ipp.csic.es/en/about-ipp) (IPP) at the [Spanish National Research Council](https://www.csic.es/en) (CSIC). Previously, she was a postdoctoral research fellow at the [University of Mannheim School of Social Sciences](https://www.sowi.uni-mannheim.de/) and a senior research fellow at the [Max Planck Institute for Research on Collective Goods](https://www.coll.mpg.de/). She holds a PhD in sociology from the [Faculty of Management, Economics and Social Sciences](https://www.wiso.uni-koeln.de/en/en/) at the University of Cologne. Her main research agenda focuses on the conditions under which social norms change and emerge, particularly the effects of social feedback and contextual information on the perception of and conformity to social norms. Much of her work has examined social norms that stigmatize overt expressions of prejudice, such as racism, xenophobia, or sexism, as well as the normative roots of political preferences and behavior. Her research has been published in leading journals, including the _European Sociological Review_, _Proceedings of the National Academy of Sciences_ (PNAS), _British Journal of Political Science_, and _Social Science Research_, among others.
