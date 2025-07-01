@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MESS Inaugural Workshop
+title: 2025 MESS Conference
 subtitle: Call for Papers
 cover-img: /assets/img/madrid.jpg
 thumbnail-img: /assets/img/mess-new2.png
