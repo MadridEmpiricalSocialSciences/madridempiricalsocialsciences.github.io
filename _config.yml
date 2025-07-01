@@ -22,7 +22,9 @@ author: Madrid Empirical Social Sciences
 navbar-links:
   About Us: "aboutus"
   Get Together: "gettogether"
-  Workshop: "workshop"
+  Conferences: 
+    - 2025 Conference: "mess2025"
+    - 2024 Inaugural Workshop: "workshop"
   Mailing List: "mailinglist"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"

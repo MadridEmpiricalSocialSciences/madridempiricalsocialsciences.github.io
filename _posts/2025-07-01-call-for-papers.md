@@ -1,0 +1,37 @@
+---
+layout: post
+title: MESS Inaugural Workshop
+subtitle: Call for Papers
+cover-img: /assets/img/madrid.jpg
+thumbnail-img: /assets/img/mess.jpg
+share-img: /assets/img/madrid.jpg
+tags: [announcement, workshop]
+author: Patrick Kraft
+published: true
+---
+
+The Madrid Empirical Social Sciences Network is excited to announce its second annual conference! After the great success of our inaugural meeting in 2024, we want to continue bringing together scholars from political science, sociology, economics, and all neighboring social sciences to foster academic collaboration and exchange in the Madrid area. We are looking forward to two days filled with lively discussions and plenty of networking opportunities for everyone.
+
+- **Date:** October 24-25, 2025
+- **Location:** IE Tower, P.º de la Castellana, 259, Madrid
+- **Guest speaker:** Stuart J. Turnbull-Dugarte (University of Southampton)
+
+We welcome full papers and ongoing projects that reflect innovative research in the social sciences. Researchers based outside of Madrid are also warmly welcome to apply. Participants also have the opportunity to present posters on ongoing projects or engage as discussants. We strongly encourage PhD students located in Madrid to apply as well!
+
+- **Abstract Submission:** Please submit your abstracts online via https://forms.gle/usBWvFrXeVbKMuPj7
+- **Submission Deadline:** 11th July 2025.
+
+Acceptance decisions will be communicated in early September. Please see the [Call for Papers](/assets/img/MESS2025-Call_for_Papers.pdf) for more information and let us know if you have any questions! You can reach us at <a href="mailto:madridempiricalsocialsciences@gmail.com">madridempiricalsocialsciences@gmail.com</a>.
+
+We are looking forward to seeing you in October!
+
+Best,
+
+The MESS Scientific Committee
+
+- Amuitz Garmendia (UC3M)
+- Emmy Lindstam (IE University)
+- Amalia Álvarez Benjumea (CSIC)
+- Jorge Fernandes (CSIC)
+- Patrick Kraft (CSIC)
+- Sergio Galaz-García (CUNEF)
