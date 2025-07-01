@@ -3,7 +3,7 @@ layout: post
 title: MESS Inaugural Workshop
 subtitle: Call for Papers
 cover-img: /assets/img/madrid.jpg
-thumbnail-img: /assets/img/mess.jpg
+thumbnail-img: /assets/img/mess-new2.png
 share-img: /assets/img/madrid.jpg
 tags: [announcement, workshop]
 author: Patrick Kraft
