@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2025 MESS Conference
-subtitle: Call for Papers
+title: Call for Papers
+subtitle: 2025 MESS Conference
 cover-img: /assets/img/madrid.jpg
 thumbnail-img: /assets/img/mess-new2.png
 share-img: /assets/img/madrid.jpg

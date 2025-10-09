@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MESS Inaugural Workshop
-subtitle: Final Program
+title: Final Program
+subtitle: MESS Inaugural Workshop
 cover-img: /assets/img/madrid.jpg
 thumbnail-img: /assets/img/mess-new2.png
 share-img: /assets/img/madrid.jpg
@@ -10,7 +10,7 @@ author: Patrick Kraft
 published: true
 ---
 
-We are excited that the MESS Inaugural Workshop is approaching and we are looking at an amazing lineup of presentations! This event aims to bring together scholars from all social science disciplines to foster academic synergies and collaborative efforts in the Madrid area. It will offer a platform for lively discussions and networking in a supportive environment. Here is the final version version of our [Workshop Program](/assets/img/MESS-Program.pdf) along with additional information for presenters and discussants.
+We are excited that the MESS Inaugural Workshop is approaching, and we are looking at an amazing lineup of presentations! This event aims to bring together scholars from all social science disciplines to foster academic synergies and collaborative efforts in the Madrid area. It will offer a platform for lively discussions and networking in a supportive environment. Here is the final version of our [Workshop Program](/assets/img/MESS-Program.pdf) along with additional information for presenters and discussants.
 
 <iframe width="315" height="560" src="https://youtube.com/embed/r3j2cKTqAbY" frameborder="0" allowfullscreen></iframe>
 

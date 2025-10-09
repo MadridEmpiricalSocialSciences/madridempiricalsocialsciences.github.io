@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MESS Inaugural Workshop
-subtitle: Registration Open
+title: Registration Open
+subtitle: MESS Inaugural Workshop
 cover-img: /assets/img/madrid.jpg
 thumbnail-img: /assets/img/mess.jpg
 share-img: /assets/img/madrid.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MESS Inaugural Workshop
-subtitle: Call for Papers
+title: Call for Papers
+subtitle: MESS Inaugural Workshop
 cover-img: /assets/img/madrid.jpg
 thumbnail-img: /assets/img/mess.jpg
 share-img: /assets/img/madrid.jpg
