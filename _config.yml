@@ -21,10 +21,12 @@ author: Madrid Empirical Social Sciences
 
 navbar-links:
   About Us: "aboutus"
-  Get Together: "gettogether"
-  Conferences: 
+  Conferences:
+    - 2026 Conference: "mess2026"
     - 2025 Conference: "mess2025"
     - 2024 Inaugural Workshop: "workshop"
+  Get Together: "gettogether"
+  News: "news"
   Mailing List: "mailinglist"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -37,14 +39,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/mess.jpg"
+#avatar: "/assets/img/mess.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/mess-logo-web.png
 
 
 #####################################
@@ -55,7 +57,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+  email: "madridempiricalsocialsciences@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
@@ -140,16 +142,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+text-col: "#2E3C3F"
+link-col: "#1A7F9C"
+hover-col: "#135F75"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#132326"
+navbar-border-col: "#E3E9EA"
+footer-col: "#F3F8F8"
+footer-text-col: "#66777A"
+footer-link-col: "#132326"
+footer-hover-col: "#1A7F9C"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -159,11 +161,11 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#1A7F9C"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/mess.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -263,11 +265,10 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
 
 kramdown:
   input: GFM
@@ -296,6 +297,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - CLAUDE.md
   - screenshot.png
   - docs/
 

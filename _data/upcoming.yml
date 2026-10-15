@@ -1,0 +1,39 @@
+# Cards shown in the "What's next" section of the home page (_layouts/landing.html).
+# Fields (all optional except title): tag, title, url, date, place, speaker, text (Markdown), links (label + url).
+# Cards are coloured teal / light teal / orange in order.
+
+- tag: Conference
+  title: MESS 2026 Conference
+  url: /mess2026
+  date: October 22–23, 2026
+  place: IPP-CSIC, C/ Albasanz 26–28
+  speaker: "Keynote: Aina Gallego (University of Barcelona)"
+  text: Our third annual conference, with 22 panels and more than 80 papers over two days. Everyone is welcome to attend.
+  links:
+    - label: Program
+      url: /assets/img/MESS2026_Program.pdf
+    - label: Schedule by room
+      url: /assets/img/MESS2026_Schedule_by_Room.pdf
+    - label: Register
+      url: /mess2026#attending-the-conference
+
+- tag: New in 2026
+  title: Best PhD Student Paper Prize
+  url: /mess2026
+  date: Awarded October 22, 2026
+  text: >-
+    A dedicated academic committee awards the prize to the best paper presented by a
+    doctoral student enrolled in a Madrid university. The winner is announced at the plenary session.
+  links:
+    - label: Call for papers
+      url: /assets/img/MESS2026-Call_for_papers.pdf
+
+- tag: Community
+  title: Informal get-togethers
+  url: /mailinglist
+  text: >-
+    Between conferences we meet for informal drinks to catch up with colleagues from
+    other institutions. Dates are announced on the mailing list.
+  links:
+    - label: Join the mailing list
+      url: /mailinglist

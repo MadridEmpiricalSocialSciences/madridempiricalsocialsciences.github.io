@@ -1,0 +1,139 @@
+---
+layout: base
+---
+{% comment %}
+  MESS landing page. Text for the hero lives in the front matter of index.html,
+  the "What's next" cards in _data/upcoming.yml, and the news list is built from _posts.
+{% endcomment %}
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+
+<main class="mess-landing">
+
+  <section class="mess-hero">
+    <div class="container-md">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          {% if page.hero-eyebrow %}<span class="mess-eyebrow">{{ page.hero-eyebrow }}</span>{% endif %}
+          <h1>{{ page.hero-title }}</h1>
+          <p class="lead">{{ page.hero-text }}</p>
+          {% if page.hero-buttons %}
+          <div class="mess-hero-actions">
+            {% for btn in page.hero-buttons %}
+            <a class="btn-mess{% unless forloop.first %} btn-mess-outline{% endunless %}" href="{{ btn.url | relative_url }}">{{ btn.label }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+          {% if page.hero-facts %}
+          <ul class="mess-hero-facts">
+            {% for fact in page.hero-facts %}
+            <li><span class="num">{{ fact.number }}</span><span class="label">{{ fact.label }}</span></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </div>
+        {% if page.hero-img %}
+        <div class="col-lg-6">
+          <figure class="mess-hero-photo">
+            <img src="{{ page.hero-img | relative_url }}" alt="{{ page.hero-img-caption | default: 'MESS conference participants' }}">
+            {% if page.hero-img-caption %}<figcaption>{{ page.hero-img-caption }}</figcaption>{% endif %}
+          </figure>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+
+  {% if site.data.upcoming %}
+  <section class="mess-section">
+    <div class="container-md">
+      <div class="mess-section-head">
+        <h2>What's next</h2>
+      </div>
+      <div class="mess-cards">
+        {% for item in site.data.upcoming %}
+        <article class="mess-card">
+          {% if item.tag %}<span class="tag">{{ item.tag }}</span>{% endif %}
+          <h3>{% if item.url %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
+          {% if item.date or item.place or item.speaker %}
+          <ul class="meta">
+            {% if item.date %}<li><i class="far fa-calendar" aria-hidden="true"></i>{{ item.date }}</li>{% endif %}
+            {% if item.place %}<li><i class="fas fa-map-marker-alt" aria-hidden="true"></i>{{ item.place }}</li>{% endif %}
+            {% if item.speaker %}<li><i class="fas fa-microphone" aria-hidden="true"></i>{{ item.speaker }}</li>{% endif %}
+          </ul>
+          {% endif %}
+          {% if item.text %}<p>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
+          {% if item.links %}
+          <div class="links">
+            {% for link in item.links %}
+            <a href="{{ link.url | relative_url }}">{{ link.label }}&nbsp;&rarr;</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  {% assign intro = content | strip %}
+  {% if intro != "" %}
+  <section class="mess-section mess-section-tint mess-intro">
+    <div class="container-md">
+      <div class="row">
+        <div class="col-lg-4">
+          <span class="mess-eyebrow">About the network</span>
+          <h2 class="mt-0">Who we are</h2>
+        </div>
+        <div class="col-lg-8">
+          {{ content | markdownify }}
+        </div>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="mess-section">
+    <div class="container-md">
+      <div class="mess-section-head">
+        <h2>Latest news</h2>
+        <a href="{{ '/news' | relative_url }}">All news &rarr;</a>
+      </div>
+      <div class="row">
+        {% for post in site.posts limit: 3 %}
+        <div class="col-md-4 mb-4">
+          <article class="mess-news-item">
+            <span class="date">{{ post.date | date: date_format }}</span>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title | strip_html }}</a></h3>
+            <p>{{ post.excerpt | strip_html | truncatewords: 28 }}</p>
+          </article>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  {% if page.partners-img %}
+  <section class="mess-partners mess-section-tint">
+    <div class="container-md">
+      <span class="mess-eyebrow">Members from institutions across Madrid</span><br>
+      <img src="{{ page.partners-img | relative_url }}" alt="CSIC, IE University, Universidad Carlos III de Madrid, CUNEF Universidad, Universidad Autónoma de Madrid">
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="mess-cta">
+    <div class="container-md">
+      <div class="row align-items-center">
+        <div class="col-lg-8">
+          <h2>Join the MESS</h2>
+          <p>Get updates on our conference, calls for papers and informal get-togethers.</p>
+        </div>
+        <div class="col-lg-4 text-lg-right">
+          <a class="btn-mess btn-mess-light" href="{{ '/mailinglist' | relative_url }}">Join the mailing list</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
