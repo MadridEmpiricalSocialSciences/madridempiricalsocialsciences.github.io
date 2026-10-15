@@ -2,6 +2,15 @@
 layout: page
 title: Inaugural MESS Workshop
 subtitle: Program
+gallery:
+  - img: /assets/img/gallery/MESS2024-18.jpg
+  - img: /assets/img/gallery/MESS2024-06.jpg
+  - img: /assets/img/gallery/MESS2024-14.jpg
+  - img: /assets/img/gallery/MESS2024-16.jpg
+  - img: /assets/img/gallery/MESS2024-08.jpg
+  - img: /assets/img/gallery/MESS2024-17.jpg
+  - img: /assets/img/gallery/MESS2024-13.jpg
+  - img: /assets/img/gallery/MESS2024-02.jpg
 ---
 
 # Inaugural Workshop of the Madrid Empirical Social Sciences Network
@@ -11,6 +20,8 @@ subtitle: Program
 **Keynote Speaker**: [Professor Niloufer A. Siddiqui (SUNY Albany)](http://www.niloufersiddiqui.com/)  
 **Program**: [Final Version (pdf)](/assets/img/MESS-Program.pdf)  
 **Registration**: [Link](https://forms.gle/aMUCDEHGLh1hD4cWA)  
+
+{% include gallery.html %}
 
 ## Friday, October 18, 2024
 

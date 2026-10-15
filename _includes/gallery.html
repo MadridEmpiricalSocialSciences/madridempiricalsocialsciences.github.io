@@ -1,0 +1,26 @@
+{%- comment -%}
+  Photo slideshow (Bootstrap 4 carousel, already loaded by the theme).
+  Usage in a page: {% include gallery.html %} renders the `gallery` list from the page's front matter.
+  Each item: img (path), optional caption.
+{%- endcomment -%}
+{%- assign photos = include.photos | default: page.gallery -%}
+{%- assign gid = include.id | default: "mess-gallery" -%}
+<div id="{{ gid }}" class="carousel slide mess-gallery" data-ride="carousel" data-interval="5000">
+<ol class="carousel-indicators">
+{%- for photo in photos %}
+<li data-target="#{{ gid }}" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %} aria-label="Photo {{ forloop.index }}"></li>
+{%- endfor %}
+</ol>
+<div class="carousel-inner">
+{%- for photo in photos %}
+<div class="carousel-item{% if forloop.first %} active{% endif %}">
+<img src="{{ photo.img | relative_url }}" class="d-block w-100" alt="{{ photo.caption | default: 'Conference photo' | escape }}"{% unless forloop.first %} loading="lazy"{% endunless %}>
+{%- if photo.caption %}
+<div class="mess-gallery-caption">{{ photo.caption }}</div>
+{%- endif %}
+</div>
+{%- endfor %}
+</div>
+<a class="carousel-control-prev" href="#{{ gid }}" role="button" data-slide="prev"><span class="mess-gallery-arrow" aria-hidden="true"><i class="fas fa-chevron-left"></i></span><span class="sr-only">Previous</span></a>
+<a class="carousel-control-next" href="#{{ gid }}" role="button" data-slide="next"><span class="mess-gallery-arrow" aria-hidden="true"><i class="fas fa-chevron-right"></i></span><span class="sr-only">Next</span></a>
+</div>
