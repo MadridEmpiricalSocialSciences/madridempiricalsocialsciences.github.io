@@ -85,3 +85,15 @@ We believe that MESS has the potential to elevate the quality of social science 
   <img width="100%" class="center-block" src="/assets/img/sergio.jpg">
   </div>
 </div>
+
+## [Rosa M. Navarrete, UAM](https://www.rosanavarrete.com/)
+
+<div class="row">
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img width="100%" class="center-block" src="/assets/img/rosa.jpg">
+  </div>
+  <div class="col-md-8" markdown="1">
+  Rosa is a Ramón y Cajal Research Fellow at the [Universidad Autónoma de Madrid](https://www.uam.es/uam/en/inicio). She received her PhD in Political Science from the [University of Mannheim](https://www.uni-mannheim.de/en/). Before joining UAM, she was a postdoctoral researcher and lecturer at Saarland University, where she led the project Political Deception in the Digital Era and directed the Observatory of Online Politics. Previously, she held research positions at the University of Mannheim and the University of York. Her research interests include comparative politics, European politics, and political behaviour, with a particular focus on the impact of digitalisation on political attitudes. She also works with text-as-data methods. Her work has been published in _West European Politics_, _Electoral Studies_, _Party Politics_, the _Journal of Elections, Public Opinion and Parties_, _Comparative European Politics_, and _South European Society and Politics_, among others.
+  </div>
+</div>
