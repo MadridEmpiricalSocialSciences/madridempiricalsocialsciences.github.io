@@ -530,3 +530,21 @@ footer .theme-by { opacity: 0.7; }
 }
 .mess-gallery a:hover .mess-gallery-arrow,
 .mess-gallery a:focus .mess-gallery-arrow { background: var(--mess-teal); color: #fff; }
+
+/* Venue maps on conference pages */
+.mess-map { margin: 1.25rem 0 2.25rem; }
+.mess-map img {
+  width: 100%;
+  border: 1px solid var(--mess-line);
+  border-radius: 0.75rem;
+  box-shadow: 0 10px 28px -16px rgba(19, 35, 38, 0.4);
+  background: #fff;
+  transition: box-shadow .15s;
+}
+.mess-map a:hover img { box-shadow: 0 14px 32px -14px rgba(19, 35, 38, 0.55); }
+.mess-map figcaption {
+  font-size: 0.85rem;
+  color: var(--mess-muted);
+  margin-top: 0.6rem;
+  text-align: right;
+}
