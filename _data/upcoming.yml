@@ -1,32 +1,31 @@
-# Cards shown in the "What's next" section of the home page (_layouts/landing.html).
+# Cards shown in the second section of the home page (_layouts/landing.html).
+# The section heading is `cards-title` in the front matter of index.html (default "What's next").
 # Fields (all optional except title): tag, title, url, date, place, speaker, text (Markdown), links (label + url).
 # Cards are coloured teal / light teal / orange in order.
 
-- tag: Conference
+- tag: Looking back
   title: MESS 2026 Conference
   url: /mess2026
   date: October 22–23, 2026
   place: IPP-CSIC, C/ Albasanz 26–28
   speaker: "Keynote: Aina Gallego (University of Barcelona)"
-  text: Our third annual conference, with 22 panels and more than 80 papers over two days. Everyone is welcome to attend.
+  text: Our third annual conference, with 22 panels and more than 80 papers over two days. Thank you to everyone who took part!
   links:
+    - label: Photos
+      url: /mess2026
     - label: Program
       url: /assets/img/MESS2026_Program.pdf
-    - label: Schedule by room
-      url: /assets/img/MESS2026_Schedule_by_Room.pdf
-    - label: Maps
-      url: /mess2026#finding-your-way
 
-- tag: New in 2026
-  title: Best PhD Student Paper Prize
-  url: /mess2026
+- tag: Congratulations
+  title: Best Student Paper Prize
+  url: /2026-10-26-best-student-paper-prize/
   date: Awarded October 22, 2026
   text: >-
-    A dedicated academic committee awards the prize to the best paper presented by a
-    doctoral student enrolled in a Madrid university. The winner is announced at the plenary session.
+    The first MESS Best Student Paper Prize went to **Mario Tamayo Sanz** (UC3M), with an
+    honorable mention for **Héctor Martínez Pérez** (UC3M).
   links:
-    - label: Call for papers
-      url: /assets/img/MESS2026-Call_for_papers.pdf
+    - label: Read the announcement
+      url: /2026-10-26-best-student-paper-prize/
 
 - tag: Community
   title: Informal get-togethers

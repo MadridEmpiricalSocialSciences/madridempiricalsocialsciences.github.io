@@ -47,7 +47,7 @@ layout: base
   <section class="mess-section">
     <div class="container-md">
       <div class="mess-section-head">
-        <h2>What's next</h2>
+        <h2>{{ page.cards-title | default: "What's next" }}</h2>
       </div>
       <div class="mess-cards">
         {% for item in site.data.upcoming %}
